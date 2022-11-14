@@ -1,2 +1,6 @@
-node_modules
-node_modules
+# IntellijIdea files
+.idea/
+.vscode/
+.DS_Store
+node_modules/
+yarn.lock
